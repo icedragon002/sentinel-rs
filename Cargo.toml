@@ -1,0 +1,8 @@
+[package]
+name = "sentinel-rs"
+version = "0.1.0"
+edition = "2024"
+authors = ["Silas Tang | Axiom 042 icedragon815@163.com"]
+license = "MIT"
+
+[dependencies]
